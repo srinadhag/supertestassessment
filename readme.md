@@ -34,11 +34,3 @@ You need to have the following installed in your machine:
 
 6. retrieve newly created ID.
 
-<img src="assets/mochawesome-report.png"/>
-
-## Below Test Cases written and Executed.
-
-
-7. Update the firtname and last name using the Patch request and assert the response.
-
-8. Validate the response code and user information.
